@@ -1,23 +1,21 @@
-body { 
-    font-family: Verdana;
-    padding: 100px
-
+body {
+  font-family: Verdana;
+  padding: 90px;
 }
+
 img {
-    width: 150px;
-    border-radius: 50%;
-
+  width: 150px;
+  border-radius: 50%;
 }
 
-.card {  
-    background: lightblue;   
-    color: #2b2839;
-    border: 6px solid #a796eb;
-padding: 30px;
-width: 350px;
-text-align: center;
-margin: auto;
-display: flex;
-justify-content: space-around;
-
+.card {
+  background: lightblue;
+  color: #2b2839;
+  border: 6px solid #a796eb;
+  padding: 30px;
+  width: 350px;
+  text-align: center;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
 }
